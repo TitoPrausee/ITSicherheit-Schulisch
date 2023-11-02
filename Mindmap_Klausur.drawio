@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2023-11-01T09:18:06.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="CSQ8_4WiuhFRDJxUcbp0" version="21.7.2" type="device">
+  <diagram name="Seite-1" id="59htJXSAAbJ7cpEQLbPU">
+    <mxGraphModel dx="1299" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BazcdtaTsKUd24QdpMWn-2" value="&lt;u&gt;&lt;b&gt;1. Servicearten und Serviceanforderungen im IT-Bereich beschreiben&lt;/b&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-270" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-6" value="&lt;b&gt;&lt;u&gt;2. IT-Serviceanfragen entgegennehmen und eingangs bearbeiten&lt;/u&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-270" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-7" value="&lt;u&gt;&lt;b&gt;3. Serviceanfragen vertiefend analysieren und Lösungen erarbeiten&lt;/b&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="10" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-8" value="&lt;b&gt;&lt;u&gt;4.&amp;nbsp;Situationsgerecht kommunizieren und dies reflektieren&lt;/u&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="290" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-9" value="&lt;b&gt;&lt;u&gt;5.&amp;nbsp;Maßnahmen zur präventiven Instandhaltung, Wartung und zur Störungsvermeidung einleiten&lt;br/&gt; und durchführen.&lt;/u&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-12" value="Definition Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-13" value="Services im IT-Bereich unterscheiden" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-14" value="Service-Management-Arten" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-15" value="Vertragsarten" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="10" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-16" value="Serviceticket &amp;amp; Ticketsystem" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-17" value="34 Praktiken im ITIL-Service" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-19" value="Supportlevels" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-20" value="Service Request, Incident und Change" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-21" value="KPI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-22" value="Persönliche und fachliche Anforderungen an einem Servicemitarbeiter" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="315" y="-120" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-26" value="Verbale, paraverbale und nonverbale Kommunikation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="310" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-27" value="Methode der 5 Warum" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-28" value="Monitoring TCP Latenz" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="315" y="290" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-29" value="IMAC/R/D Lebenszyklus" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-30" value="ITIL 4 Value Co-Creation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-170" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-31" value="IT-Compliance und IT-Governance" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-32" value="DMAIC Zyklus" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-33" value="Eisenhower Prinzip" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="440" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-34" value="Pareto Prinzip" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="570" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-35" value="Diskussionstypen kennen und bescheiben" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="570" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-36" value="Kommunikationsforschung nach Watzlawick" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-37" value="Drei-Phasen-Modell nach Lewin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="570" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BazcdtaTsKUd24QdpMWn-38" value="Reaktive und proaktive Wartung" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="800" y="570" width="130" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
